@@ -1,0 +1,28 @@
+{
+  "name": "yTRASHER",
+  "version": "2.0.0",
+  "description": "Atualizações no bot de vendas automáticas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yTRASHER",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "@discordjs/voice": "^0.13.0",
+    "axios": "^0.27.2",
+    "discord-api-types": "^0.27.3",
+    "discord-modals": "^1.2.2",
+    "discord.js": "^13.17.1",
+    "fs-constants": "^1.0.0",
+    "mercadopago": "^1.5.13",
+    "moment": "^2.29.4",
+    "tar-fs": "^2.1.1",
+    "wio.db": "^4.0.22"
+  },
+  "devDependencies": {
+    "eslint": "^8.20.0"
+  }
+}
